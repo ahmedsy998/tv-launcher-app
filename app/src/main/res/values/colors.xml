@@ -1,0 +1,6 @@
+<resources>
+    <color name="background_tv">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="card_focus">#3F51B5</color>
+    <color name="text_color">#FFFFFF</color>
+</resources>
